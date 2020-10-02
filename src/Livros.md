@@ -6,6 +6,8 @@
 - Vários idiomas
   - [Z-Library](https://b-ok.lat)
   - [Library Genesis](https://libgen.is)
+  - [Free Computer Books](https://freecomputerbooks.com/)
+  - [PDF Drive](https://www.pdfdrive.com/)
 
 # Livros
 
@@ -24,7 +26,7 @@
   - [🐍 Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
   - [🐍 Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   - [🐍 Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/chapter0.html)
-
+  - [🐫 Real World Ocaml](https://dev.realworldocaml.org/toc.html)
 # Blogs
 
 - Português
@@ -48,6 +50,7 @@
   - 🐙 Github
     - [Como alterar o repositório remoto de um diretório de trabalho](https://help.github.com/pt/github/using-git/changing-a-remotes-url) 
     - [Github planeja remover termos como ‘master’ em sua plataforma](https://gizmodo.uol.com.br/github-planeja-remover-termos-como-master)
+    - [Github para leigos](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
   
   - [🐍 The Zen of Python - Lista com 19 princípios para escrever bons códigos na linguagem](https://pythonacademy.com.br/zen-of-python)
   
